@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1KbUdsBXCA0fJXv4EjbnQH53IQpu+GSiZVJksqtP5xSqMePXnhO7oeNWu1YSmicDyWzEfCWt1W2ijHvEdu7TGA==",
+  "success": true,
+  "projectFilePath": "D:\\Pessoal\\Framework\\Projeto\\Framework.Domain.Base\\Framework.Domain.Base.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\40923\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\40923\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\40923\\.nuget\\packages\\system.drawing.common\\4.5.1\\system.drawing.common.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
